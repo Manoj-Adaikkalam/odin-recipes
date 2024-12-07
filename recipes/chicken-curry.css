@@ -1,0 +1,23 @@
+
+h1{
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+
+h2{
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+div{
+    text-align: center;
+    
+}
+
+body{
+    background-color: rgb(241, 198, 198);
+}
